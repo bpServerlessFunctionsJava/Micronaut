@@ -22,9 +22,4 @@ public class GetEmployeesTest {
         }
     }
 
-    @Test
-    public void testHandler() {
-        Iterable<Employee> temp = getEmployees.execute("test");
-        String test = "";
-    }
 }
