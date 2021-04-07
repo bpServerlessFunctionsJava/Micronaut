@@ -1,3 +1,9 @@
+# quarkus commands build
+```shell script
+gradlew shadowJar
+upload to AWS Lambda
+```
+
 ## Micronaut 2.4.0 Documentation
 
 - [User Guide](https://docs.micronaut.io/2.4.0/guide/index.html)
