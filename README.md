@@ -1,4 +1,4 @@
-# quarkus commands build
+# micronaut commands build
 ```shell script
 gradlew shadowJar
 upload to AWS Lambda (https://guides.micronaut.io/mn-serverless-function-aws-lambda/guide/index.html)
