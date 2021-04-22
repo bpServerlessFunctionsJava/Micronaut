@@ -1,3 +1,9 @@
+# micronaut commands build
+```shell script
+gradlew shadowJar
+upload to AWS Lambda (https://guides.micronaut.io/mn-serverless-function-aws-lambda/guide/index.html)
+```
+
 ## Micronaut 2.4.0 Documentation
 
 - [User Guide](https://docs.micronaut.io/2.4.0/guide/index.html)
